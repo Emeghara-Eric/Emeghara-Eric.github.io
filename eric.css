@@ -1,0 +1,56 @@
+<!-- for styling -- > .title {
+  border-radius: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 210px;
+  color: #ffaa67;
+  border: solid black 1px;
+}
+input[type='button'] {
+  border-radius: 10px;
+  background-color: #213465;
+  color: rgb(251, 227, 2);
+  border-color: #ff4456;
+  width: 100%;
+}
+
+input[type='text'] {
+  color: azure;
+  font-weight: bolder;
+  border-radius: 10px;
+  text-align: right;
+  background-color: rgb(0, 0, 0);
+  border-color: rgb(253, 253, 253);
+  width: 95%;
+}
+.CcHub {
+  text-align: center;
+  background-color: rgb(4, 236, 159);
+  color: cornsilk;
+  border-radius: 1rem;
+}
+.Clr-btn {
+  background-color: #ff4456;
+  border: groove;
+  border-width: 0.5rem;
+  border-color: rgb(243, 9, 9);
+}
+.Cal_tab {
+  color: blueviolet;
+}
+table {
+  table-layout: auto;
+  width: 80%;
+  background-color: cornflowerblues;
+}
+tr {
+  background-color: chartreuse;
+  font-weight: bolder;
+}
+input{
+ font-weight: bolder;
+}
+.title {
+ background-color: rgb(11, 240, 99);
+ f
+}
